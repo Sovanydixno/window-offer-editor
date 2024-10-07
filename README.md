@@ -1,15 +1,17 @@
-# window-offer-editor
+# README
 
-This aplication will mainly be used to make price offers for products like windows, doors and their accesories.
-Other features:
-  -Ability to compare offers
-  -An editor for products
-  -Printing a list for required materials
+**This aplication will mainly be used to make price offers for products like windows, doors and their accesories.**
+## Features: <br />
+  - Ability to compare offers <br />
+  - An editor for products <br />
+  - Printing a list for required materials
 
-Personal goals
-  -Learn to write Unit Tests
-  -Get better at writing clean, maintainable code
+## Learning goals
+  - Learn to write Unit Tests <br />
+  - Get better at writing clean, maintainable code
 
-Language C# 10
-Frameworks: -.Net 6
-            - WPF
+## Misc
+Language C# 10 <br />
+Frameworks: <br />
+  - .Net 6 <br />
+  - WPF
